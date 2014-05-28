@@ -1,4 +1,4 @@
-BarcodeDemo
+ORES Barcode Demo App
 ===========
 
 A PhoneGap app demoing the [BarcodeScanner Plugin](http://github.com/wildabeast/BarcodeScanner).
